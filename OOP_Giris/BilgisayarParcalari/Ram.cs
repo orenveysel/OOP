@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace OOP_Giris.BilgisayarParcalari
 {
-    internal class Ram
+    public class Ram
     {
+        public string Marka { get; set; }
+        public string Model { get; set; }
+        public int Kapasite { get; set; }
+        public float Fiyat { get; set; }
     }
 }

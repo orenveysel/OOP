@@ -12,7 +12,5 @@ namespace OOP_Giris.BilgisayarParcalari
         public string Model { get; set; }
         public int CoreSayisi { get; set; }
         public float Fiyat { get; set; }
-
-
     }
 }

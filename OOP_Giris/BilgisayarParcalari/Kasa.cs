@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace OOP_Giris.BilgisayarParcalari
 {
-    internal class Kasa
+    public class Kasa
     {
+        public string Marka { get; set; }
+        public string Model { get; set; }
+        public PowerSupplier PowerSupplier { get; set; }
+        public float Fiyat { get; set; }
     }
 }
