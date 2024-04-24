@@ -9,12 +9,12 @@ namespace OOP_Giris.BilgisayarParcalari
 
     /*
      
-     Bu yapı yazılım dilinde enum, enumaration ya da enum sabitleri olarak adlandırılır. Değişkenlerin alabileceği değerlerin sabit (belli) olduğu durumlarda programı daha okunabilir hale getirmek için kullanılır. Programda birçok değişkene tek tek sayısal değer vermek yerine "enum" kullanılabilir. Özet olarak "enum" yapısı sayıları anlamlı şekilde isimlendirerek kullanabilmeye izin verir.
+     Bu yapı yazılım dilinde enum, enumeration ya da enum sabitleri olarak adlandırılır. 
+    Değişkenlerin alabileceği değerlerin sabit (belli) olduğu durumlarda programı daha okunabilir hale getirmek için kullanılır. 
+    Programda birçok değişkene tek tek sayısal değer vermek yerine "enum" kullanılabilir. 
+    Özet olarak "enum" yapısı sayıları anlamlı şekilde isimlendirerek kullanabilmeye izin verir.
      
-     Enumlar Default degeri integer'dir. Ama : koyarak 
-     tam sayi degiskenleri atanabilir
-     
-     
+     Enumlar Default degeri integer'dir. Ama : koyarak tam sayi degiskenleri atanabilir
      
      */
 
@@ -22,7 +22,7 @@ namespace OOP_Giris.BilgisayarParcalari
     {
         Ogrenci = 1,
         Oyun = 2,
-        İş = 3,
+        Is = 3,
         Grafiker = 4
     }
 

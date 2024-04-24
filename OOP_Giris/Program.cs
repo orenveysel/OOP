@@ -7,9 +7,6 @@ namespace OOP_Giris
      AnaKart ,Cpu,Ram ,SSD,HDD,EkranKarti,NEtworkKarti,
      Kasa , PowerSupplier ,Ekran ,Klavye ,Mouse 
      Printer ,Scanner ,Hoperlor,WebCam
-     
-     
-     
      */
     public class Ogrenci
     {
@@ -31,7 +28,7 @@ namespace OOP_Giris
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    Console.WriteLine("TcKimlik alani boş olamaz");
+                    Console.WriteLine("TcKimlik alani bos olamaz");
                     return;
                 }
 
@@ -43,11 +40,6 @@ namespace OOP_Giris
                         return;
                     }
                 }
-                if (value[0].ToString() == "0")
-                {
-                    Console.WriteLine("Tc No 0 ile başlayamaz");
-                    return;
-                }
 
                 if (value.Length == 11)
                 {
@@ -58,16 +50,21 @@ namespace OOP_Giris
                     Console.WriteLine("Eksik yada fazla karakter. 11 Karakter olmalidir");
                     return;
                 }
-            } //Boş Property . Yani Koşulsuz özellik 
 
+                if (value[0].ToString() == "0")
+                {
+                    Console.WriteLine("Tc No 0 ile baslayamaz");
+                    return;
+                }
+            } //Bos Property yani Kosulsuz özellik 
         }
-        public string Gsm { get; set; } // Boş Prop => kontrolsuz 
+        public string Gsm { get; set; } // Bos Prop => kontrolsuz 
         // Ogrenci Class'ina ait metodlar
         public void SetTcNo(string tcNo)
         {
             if (tcNo.Length != 11)
             {
-                Console.WriteLine("Eksik yada fazla karakter. 11 Karakter olmalidir");
+                Console.WriteLine("Eksik ya da fazla karakter. 11 Karakter olmalidir");
             }
             else if (tcNo.Length == 11)
             {
@@ -79,7 +76,6 @@ namespace OOP_Giris
             //Tc No'nun Son 4 hanesi geri donecek
             return TcNo.Substring(7);
         }
-
     }
 
     internal class Program
@@ -93,9 +89,8 @@ namespace OOP_Giris
             //ogrenci.Ad = "Ali";
             //ogrenci.Soyad = "Yilmaz";
             //ogrenci.SetTcNo("12345678901");
-            //ogrenci.TcKimlik = "ıasdfkhasdfhk"; 
+            //ogrenci.TcKimlik = "ıasdfkhasdfhk";
             #endregion
-
 
             #region Instance Alma
 
@@ -106,7 +101,6 @@ namespace OOP_Giris
             anaKart.Model = "XYZ";
             anaKart.Fiyat = 120.3f;
             anaKart.Wifi = true;
-
 
             //2. Yol
             CPU cpu = new();
@@ -136,7 +130,7 @@ namespace OOP_Giris
             };
 
             // Buradaki Tanimlamada Bilgisayar Nesnesinin ihtiyac duydugu alanlar
-            // Daha onceden intance aldigimiz neslerden atamasi yapilir
+            // Daha onceden instance aldigimiz nesnelerden atamasi yapilir
             Bilgisayar bilgisayar = new Bilgisayar()
             {
                 Anakart = anaKart,
@@ -146,7 +140,6 @@ namespace OOP_Giris
                 Kasa = kasa,
                 Fiyat = 1000
             };
-
 
             //2. Yol 
             Bilgisayar bilgisayar1 = new Bilgisayar()
