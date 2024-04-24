@@ -37,9 +37,7 @@ namespace _2_ClassEncapsulation
                             throw new Exception("TcNo Sayisal Olmalidir");
                         }
                     }
-
                     _tcno = value;
-
                 }
             }
         }
