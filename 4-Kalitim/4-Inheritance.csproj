@@ -12,7 +12,6 @@
     <Folder Include="Bilgisayar\" />
     <Folder Include="Hayvanlar\Genel\NewFolder\" />
     <Folder Include="Kutuphane\" />
-    <Folder Include="Okul\" />
   </ItemGroup>
 
 </Project>
