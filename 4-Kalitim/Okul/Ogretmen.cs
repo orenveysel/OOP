@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _4_Inheritance.Okul
 {
-    public class Ogretmen
+    public class Ogretmen : BaseKisi
     {
         public Brans Brans { get; set; }
         public CalismaSaatleri CalismaSaatleri { get; set; }
