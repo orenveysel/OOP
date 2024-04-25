@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_4_Inheritance.Bilgisayar.Item">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Bilgisayar.Kasa">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar\Kasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Bilgisayar.CPU">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar\CPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Bilgisayar.Ram">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar\Ram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Bilgisayar.PowerSupplier">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar\PowerSupplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Bilgisayar.Bilgisayar">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAABAAgAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Bilgisayar\Bilgisayar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Bilgisayar.AnaKart">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar\AnaKart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_4_Inheritance.Bilgisayar.KasaTipi">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAACA=</HashCode>
+      <FileName>Bilgisayar\Kasa.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

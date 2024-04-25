@@ -9,9 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Bilgisayar\" />
     <Folder Include="Hayvanlar\Genel\NewFolder\" />
-    <Folder Include="Kutuphane\" />
   </ItemGroup>
 
 </Project>

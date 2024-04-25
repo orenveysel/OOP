@@ -1,4 +1,5 @@
 ﻿using _4_Inheritance.Hayvanlar;
+using _4_Inheritance.Kutuphane;
 using _4_Inheritance.Personeller;
 using System.Drawing;
 
@@ -33,6 +34,7 @@ namespace _4_Inheritance
             //karga.Renkleri.Add(KnownColor.Blue);
             //karga.Renkleri.Add(KnownColor.Black);
 
+            Yazar yasarKemal = new Yazar();
             Console.WriteLine("Hello, World!");
         }
     }
