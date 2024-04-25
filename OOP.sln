@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Giris", "OOP_Giris\OOP_Giris.csproj", "{E08688E7-C8CA-46C8-AF4F-5E09D3518043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ClassEncapsulation", "2-ClassEncapsulation\2-ClassEncapsulation.csproj", "{1E728099-8708-4F04-8F48-B7E03CF4D2D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-ClassEncapsulation", "2-ClassEncapsulation\2-ClassEncapsulation.csproj", "{1E728099-8708-4F04-8F48-B7E03CF4D2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Enum", "3-Enum\3-Enum.csproj", "{80E1CC90-CE84-4C0D-951E-410708240A71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1E728099-8708-4F04-8F48-B7E03CF4D2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E728099-8708-4F04-8F48-B7E03CF4D2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E728099-8708-4F04-8F48-B7E03CF4D2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E1CC90-CE84-4C0D-951E-410708240A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E1CC90-CE84-4C0D-951E-410708240A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E1CC90-CE84-4C0D-951E-410708240A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E1CC90-CE84-4C0D-951E-410708240A71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
