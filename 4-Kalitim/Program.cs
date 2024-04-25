@@ -1,6 +1,6 @@
-﻿using _4_Kalitim.Personeller;
+﻿using _4_Inheritance.Personeller;
 
-namespace _4_Kalitim
+namespace _4_Inheritance
 {
     internal class Program
     {

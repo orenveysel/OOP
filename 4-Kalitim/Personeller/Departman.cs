@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_Kalitim.Personeller
+namespace _4_Inheritance.Personeller
 {
     public enum Departman
     {

@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-ClassEncapsulation", "2-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Enum", "3-Enum\3-Enum.csproj", "{80E1CC90-CE84-4C0D-951E-410708240A71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Kalitim", "4-Kalitim\4-Kalitim.csproj", "{41083698-8196-410A-8CB3-6D8E2EEBE721}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Inheritance", "4-Kalitim\4-Inheritance.csproj", "{41083698-8196-410A-8CB3-6D8E2EEBE721}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
