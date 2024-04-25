@@ -15,5 +15,16 @@ namespace _4_Inheritance.Personeller
         public bool Cinsiyet { get; set; }
         public string GobekAdi { get; set; }
         // public Adres Adres { get; set; }
+
+        public string KisiBilgileriVer()
+        {
+            return $"Adi:{Ad}\nSoyadi:{Soyad}\nSehir:{Sehir}";
+        }
+
+        // object veri tipinden gelen ToString() metodunu ezip yerine kendi kodlarimin calistirilmasini istiyorum
+        public override string ToString()
+        {
+            return $"Adi:{Ad}\nSoyadi:{Soyad}\nSehir:{Sehir}";
+        }
     }
 }
