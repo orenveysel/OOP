@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_4_Inheritance.Okul.Adres" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQgAAAAAAAAAAAAAAAIAAAAAABAACAAAAAAAAAAA=</HashCode>
+      <FileName>Okul\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Okul.BaseKisi" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAEAAAAAAAAAgAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Okul\BaseKisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Okul.Hademe" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Okul\Hademe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Okul.Ogrenci" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Okul\Ogrenci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Inheritance.Okul.Ogretmen" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Okul\Ogretmen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_4_Inheritance.Okul.Brans">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAQAAAAAAAAAEAAAACgAAEAAAAAAgAAAAAAAAI=</HashCode>
+      <FileName>Okul\Brans.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_4_Inheritance.Okul.CalismaSaatleri">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Okul\CalismaSaatleri.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

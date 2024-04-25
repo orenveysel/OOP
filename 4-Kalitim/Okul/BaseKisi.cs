@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _4_Inheritance.Okul
 {
-    public class BaseKisi
+    public class BaseKisi : Adres
     {
         public string Ad { get; set; }
         public string Soyad { get; set; }
