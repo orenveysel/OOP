@@ -17,7 +17,7 @@
   <Class Name="_5_Constructor.Personeller.Kisi">
     <Position X="3" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAACAAAAAABAAAAAAAAAAAAAEACAAAACAAAAA=</HashCode>
+      <HashCode>AAIAAAAAACAAAAAABAAAAAAAAAEAAAEACAAAACAAAAA=</HashCode>
       <FileName>Personeller\Kisi.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -43,7 +43,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="_5_Constructor.Personeller.Personel">
-    <Position X="6" Y="1.25" Width="1.5" />
+    <Position X="5.75" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAA=</HashCode>
       <FileName>Personeller\Personel.cs</FileName>
@@ -52,7 +52,7 @@
   <Enum Name="_5_Constructor.Personeller.Departman" Collapsed="true">
     <Position X="7.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAEAAAAQIA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAEAAAASIA=</HashCode>
       <FileName>Personeller\Departman.cs</FileName>
     </TypeIdentifier>
   </Enum>

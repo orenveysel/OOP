@@ -12,6 +12,7 @@ namespace _5_Constructor.Personeller
         Finans,
         IT,
         Yonetim,
-        IK
+        IK,
+        Hizmet
     }
 }

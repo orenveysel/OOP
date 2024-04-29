@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace _5_Constructor.Personeller
 {
-    public class ItPersonel : Personel
+    public class ITPersonel : Personel
     {
-        public ItPersonel(string ad, string soyad, bool cinsiyet) : base(ad, soyad, cinsiyet)
+        public ITPersonel(string ad, string soyad, bool cinsiyet) : base(ad, soyad, cinsiyet)
         {
             Departman = Departman.IT;
             Maas += 10000;
+
+            Console.WriteLine(Ulke);
         }
     }
 }
