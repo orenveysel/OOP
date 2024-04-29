@@ -6,7 +6,7 @@ namespace _6_InheritanceTekrar
     public partial class Form1 : Form
     {
         SqlConnection _conn; //SqlServer'a baglanmak icin Gerekli
-        SqlCommand _command; // Baglati uzerinden sorgu calistirmak icin gerekli
+        SqlCommand _command; // Baglanti uzerinden sorgu calistirmak icin gerekli
         SqlDataReader _reader; // Command nesnesi uzerinde okuma yapmak icin gerekli
         string _sql, constr = "Server=.;Database=Northwind;Trusted_Connection=True;";
 
@@ -36,10 +36,11 @@ namespace _6_InheritanceTekrar
         //Event
         private void button1_Click(object sender, EventArgs e)
         {
+            listBox1.Items.Clear();
             try
             {
                 _conn.Open();
-                //MessageBox.Show("Baglati baþarili");
+                //MessageBox.Show("Baglanti basarili");
                 _sql = "Select * from Shippers";
                 _command = new SqlCommand(_sql, _conn);
                 _reader = _command.ExecuteReader();
