@@ -102,5 +102,15 @@ namespace _6_InheritanceTekrar
             _conn.Close();
 
         }
+        private void ShipperCrud_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_MouseHover(object sender, EventArgs e)
+        {
+            _sql = $"insert into kisiler (dogumtarihi) values (Convert(DateTime,'{DateTime.Now}',104))";
+            // MessageBox.Show("Mouse Hower yani geçiş event'i tetiklendi");
+        }
     }
 }
