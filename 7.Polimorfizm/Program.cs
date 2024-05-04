@@ -1,5 +1,4 @@
 ﻿using _7.Polimorfizm.Hayvanlar;
-
 namespace _7.Polimorfizm
 {
     internal class Program
