@@ -1,4 +1,5 @@
-﻿namespace _10_Interface
+﻿using _10_Interface.Personeller.Abstract;
+namespace _10_Interface
 {
     internal class Program
     {
