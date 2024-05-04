@@ -12,7 +12,6 @@ namespace _10_Interface.Personeller.Concrete
         public void MusterileriAra()
         {
             throw new NotImplementedException();
-
         }
 
         public void MusterilerleToplantiYap()

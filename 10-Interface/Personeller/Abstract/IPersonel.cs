@@ -8,7 +8,6 @@ namespace _10_Interface.Personeller.Abstract
 {
     public interface IPersonel
     {
-
         public void IseZamanindaGel();
         public void VerilenGoreviYap();
     }

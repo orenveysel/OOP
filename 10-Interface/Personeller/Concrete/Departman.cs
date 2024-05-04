@@ -13,6 +13,5 @@ namespace _10_Interface.Personeller.Concrete
         IT,
         Yonetim,
         IK
-
     }
 }

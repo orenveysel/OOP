@@ -9,16 +9,17 @@ namespace _10_Interface.Personeller.Concrete
 {
     public class SatisPersoneli : Personel, ISatis
     {
-
         public void MusterileriAra()
         {
 
         }
         public void MusterilerleToplantiYap()
         {
+
         }
         public void SatisRaporuHazirla()
         {
+
         }
     }
 }

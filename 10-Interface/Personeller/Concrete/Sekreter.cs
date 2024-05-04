@@ -9,7 +9,6 @@ namespace _10_Interface.Personeller.Concrete
 {
     public class Sekreter : Personel, ISekreter
     {
-
         public void TelefonlaraBak()
         {
 

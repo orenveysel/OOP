@@ -8,9 +8,7 @@ namespace _10_Interface.Personeller.Abstract
 {
     public interface ISekreter
     {
-
         //Interface'lerde sadece metod imzasi bulunur
-
         public void TelefonlaraBak();
         public void ToplantilariOrganizeEt();
     }

@@ -19,8 +19,5 @@ namespace _10_Interface.Personeller.Concrete
         {
 
         }
-
-
-
     }
 }

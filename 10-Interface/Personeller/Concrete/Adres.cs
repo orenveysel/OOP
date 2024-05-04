@@ -14,6 +14,5 @@ namespace _10_Interface.Personeller.Concrete
         public string CaddeSokak { get; set; }
         public string PostaKodu { get; set; }
         public int KapiNo { get; set; }
-
     }
 }

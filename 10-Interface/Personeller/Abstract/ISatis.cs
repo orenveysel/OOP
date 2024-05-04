@@ -9,8 +9,6 @@ namespace _10_Interface.Personeller.Abstract
     public interface ISatis
     {
         public void MusterileriAra();
-
-
         public void MusterilerleToplantiYap();
         public void SatisRaporuHazirla();
     }
