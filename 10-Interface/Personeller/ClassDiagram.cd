@@ -7,15 +7,15 @@
       <FileName>Personeller\Concrete\Adres.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="_10_Interface.Personeller.Concrete.Kisi" Collapsed="true">
-    <Position X="4" Y="0.5" Width="1.5" />
+  <Class Name="_10_Interface.Personeller.Concrete.Kisi">
+    <Position X="4.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAICAAAAAEBAAAAAAAAAAAAAEACAAAACAAAAA=</HashCode>
       <FileName>Personeller\Concrete\Kisi.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.Personel">
-    <Position X="7.5" Y="3.25" Width="1.5" />
+    <Position X="8.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAACACAEAA=</HashCode>
       <FileName>Personeller\Concrete\Personel.cs</FileName>
@@ -31,7 +31,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.SatisPersoneli">
-    <Position X="11.5" Y="6.75" Width="1.5" />
+    <Position X="11" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAEAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Personeller\Concrete\SatisPersoneli.cs</FileName>
@@ -39,7 +39,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.SatisMuduru">
-    <Position X="0.5" Y="3.25" Width="1.5" />
+    <Position X="0.5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAEAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Personeller\Concrete\SatisMuduru.cs</FileName>
@@ -47,7 +47,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.Mudur">
-    <Position X="2.75" Y="1.75" Width="1.5" />
+    <Position X="2.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
       <FileName>Personeller\Concrete\Mudur.cs</FileName>
@@ -55,7 +55,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.MuhasaebePersoneli">
-    <Position X="7.5" Y="6.75" Width="1.5" />
+    <Position X="5.75" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAAABAAAAA=</HashCode>
       <FileName>Personeller\Concrete\MuhasaebePersoneli.cs</FileName>
@@ -63,7 +63,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.ITMudur">
-    <Position X="0.5" Y="5.5" Width="1.5" />
+    <Position X="2.75" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAIAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
       <FileName>Personeller\Concrete\ITMudur.cs</FileName>
@@ -71,14 +71,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_10_Interface.Personeller.Concrete.Sekreter">
-    <Position X="3" Y="6.25" Width="1.5" />
+    <Position X="8.5" Y="7" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAA=</HashCode>
       <FileName>Personeller\Concrete\Sekreter.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Enum Name="_10_Interface.Personeller.Concrete.Departman" Collapsed="true">
+  <Enum Name="_10_Interface.Personeller.Concrete.Departman">
     <Position X="8.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAEAAAAQIA=</HashCode>
