@@ -1,0 +1,9 @@
+﻿
+ProductManager Sinifini Dapper ile yazin . 
+Ayrica IProductManager interface'i de bulunsun.
+
+Calisanlari icin ManagerSinifi gelistirin
+IEmployeeManager icerisinde Extra bulunmasini istedigimiz metodlar
+1- Calisanlarin Aylik Bazda cirolarini veren metod.Ayin Elemanini bulmak icin 
+2- Calisanlarin Yillik bazda Ciralarini veren metod 
+3- GetCountryList(int emloyeeId,int year) verilen calisanin ,ulkelere gore satis ve ciro dagilimi 
