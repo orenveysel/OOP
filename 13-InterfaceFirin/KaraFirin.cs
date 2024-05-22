@@ -15,7 +15,7 @@ namespace _13_InterfaceFirin
 
         // public void EkmekPisir(Makina makina)
         // {
-        //     makina.HamurYogur();
+        //     makina.HamurYogur();b
         // }
 
         public void EkmekPisir(IYogurma yogurucu)
