@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-InterfaceKalitimTekrar",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-InterfaceFirin", "13-InterfaceFirin\13-InterfaceFirin.csproj", "{24C5015F-72CE-4F8E-8242-17545DDD291B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-InterfaceFutbol", "14-InterfaceFutbol\14-InterfaceFutbol.csproj", "{B6408DBB-4F01-42C8-AD74-F7697DA13689}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{24C5015F-72CE-4F8E-8242-17545DDD291B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C5015F-72CE-4F8E-8242-17545DDD291B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C5015F-72CE-4F8E-8242-17545DDD291B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6408DBB-4F01-42C8-AD74-F7697DA13689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6408DBB-4F01-42C8-AD74-F7697DA13689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6408DBB-4F01-42C8-AD74-F7697DA13689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6408DBB-4F01-42C8-AD74-F7697DA13689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
