@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-GenericRepository", "20-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-OOPGenelTekrar", "21-OOPGenelTekrar\21-OOPGenelTekrar.csproj", "{2DE770FA-80CF-4437-99C8-11A236A15136}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-ActionDelegate", "22-ActionDelegate\22-ActionDelegate.csproj", "{B95081E7-F520-4944-8F48-41D2625D975E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{2DE770FA-80CF-4437-99C8-11A236A15136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DE770FA-80CF-4437-99C8-11A236A15136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DE770FA-80CF-4437-99C8-11A236A15136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95081E7-F520-4944-8F48-41D2625D975E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95081E7-F520-4944-8F48-41D2625D975E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95081E7-F520-4944-8F48-41D2625D975E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95081E7-F520-4944-8F48-41D2625D975E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
