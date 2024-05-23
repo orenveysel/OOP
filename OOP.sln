@@ -25,21 +25,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-Interface", "10-Interfac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-InterfaceKalitimTekrar", "12-InterfaceKalitimTekrar\12-InterfaceKalitimTekrar.csproj", "{C3C66AF5-8C6E-4AE4-8BB7-A34AB88BE09F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-InterfaceFirin", "13-InterfaceFirin\13-InterfaceFirin.csproj", "{24C5015F-72CE-4F8E-8242-17545DDD291B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-InterfaceFirin", "13-InterfaceFirin\13-InterfaceFirin.csproj", "{24C5015F-72CE-4F8E-8242-17545DDD291B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-InterfaceFutbol", "14-InterfaceFutbol\14-InterfaceFutbol.csproj", "{B6408DBB-4F01-42C8-AD74-F7697DA13689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-InterfaceFutbol", "14-InterfaceFutbol\14-InterfaceFutbol.csproj", "{B6408DBB-4F01-42C8-AD74-F7697DA13689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-InterfaceOtomobil", "15-InterfaceOtomobil\15-InterfaceOtomobil.csproj", "{3CEE40DD-4B4C-4CCC-A279-441AA4300F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-InterfaceOtomobil", "15-InterfaceOtomobil\15-InterfaceOtomobil.csproj", "{3CEE40DD-4B4C-4CCC-A279-441AA4300F92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-PartialClass", "16-PartialClass\16-PartialClass.csproj", "{16649DF5-18E3-4BD4-B5B7-9CD594CAF724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-PartialClass", "16-PartialClass\16-PartialClass.csproj", "{16649DF5-18E3-4BD4-B5B7-9CD594CAF724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-SealedClass", "17-SealedClass\17-SealedClass.csproj", "{68E88556-1F86-48D6-990D-6F69699D65EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17-SealedClass", "17-SealedClass\17-SealedClass.csproj", "{68E88556-1F86-48D6-990D-6F69699D65EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-InterfaceInsanKaynaklari", "18-InterfaceInsanKaynaklari\18-InterfaceInsanKaynaklari.csproj", "{C4BE7C7C-C6BA-421E-A71D-44249228E6AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-InterfaceInsanKaynaklari", "18-InterfaceInsanKaynaklari\18-InterfaceInsanKaynaklari.csproj", "{C4BE7C7C-C6BA-421E-A71D-44249228E6AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-NorthwindModels", "19-NorthwindModels\19-NorthwindModels.csproj", "{6F1B0C9D-2ECF-4843-A071-F77AA6ACB0E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-NorthwindModels", "19-NorthwindModels\19-NorthwindModels.csproj", "{6F1B0C9D-2ECF-4843-A071-F77AA6ACB0E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-GenericRepository", "20-GenericRepository\20-GenericRepository.csproj", "{BA7A538B-8EA1-40D5-8C04-C5B78CEF14AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-GenericRepository", "20-GenericRepository\20-GenericRepository.csproj", "{BA7A538B-8EA1-40D5-8C04-C5B78CEF14AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-OOPGenelTekrar", "21-OOPGenelTekrar\21-OOPGenelTekrar.csproj", "{2DE770FA-80CF-4437-99C8-11A236A15136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{BA7A538B-8EA1-40D5-8C04-C5B78CEF14AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA7A538B-8EA1-40D5-8C04-C5B78CEF14AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA7A538B-8EA1-40D5-8C04-C5B78CEF14AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE770FA-80CF-4437-99C8-11A236A15136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE770FA-80CF-4437-99C8-11A236A15136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE770FA-80CF-4437-99C8-11A236A15136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE770FA-80CF-4437-99C8-11A236A15136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.Kofte" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Concrete\Kofte.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.Piyaz" BaseTypeListCollapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Concrete\Piyaz.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.KuruFasulye" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEBAQAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Lokanta\Concrete\KuruFasulye.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.BorsaLokantasi">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Lokanta\Concrete\BorsaLokantasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.Pirasa" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Concrete\Pirasa.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.Salatalik" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Concrete\Salatalik.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_21_OOPGenelTekrar.Lokanta.Concrete.Cacik" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAA=</HashCode>
+      <FileName>Lokanta\Concrete\Cacik.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="_21_OOPGenelTekrar.Lokanta.Abstract.IPisirilebilir">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Abstract\IPisirilebilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_21_OOPGenelTekrar.Lokanta.Abstract.ISatinAlinabilir">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Abstract\ISatinAlinabilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_21_OOPGenelTekrar.Lokanta.Abstract.IServisEdilebilir">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Lokanta\Abstract\IServisEdilebilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_21_OOPGenelTekrar.Lokanta.Abstract.ISaklanabilir">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Abstract\ISaklanabilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_21_OOPGenelTekrar.Lokanta.Abstract.IIsıtılabilir">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lokanta\Abstract\IIsıtılabilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
